@@ -1,140 +1,95 @@
 <div align="center">
 
-<!-- ═══════════════════ 🎵 TOP MUSIC PLAYER BANNER 🎵 ═══════════════════ -->
-<table align="center" style="border: none; background: transparent;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://open.spotify.com" target="_blank">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXlzc2N3eW41Z292dTZqZnpvZTV0ZmJ3N2N5cHFwZWdtcjVveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k323V8kYg2eN25gY1j/giphy.gif" width="380" alt="Cyber Lo-Fi Aesthetic Album Art" style="border-radius: 16px; box-shadow: 0px 8px 30px rgba(0, 255, 255, 0.35); border: 2px solid #00f2fe;"/>
-      </a>
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00F2FE&center=true&vCenter=true&width=435&lines=%F0%9F%8E%A7+NOW+PLAYING%3A+Midnight+City+-+M83;%F0%9F%8E%B6+Vibing+to%3A+Synthwave+%2F%2F+Cyberpunk+2077;%E2%9C%A8+Track+04%3A+Lo-Fi+Coding+Beats+to+Hack+To" alt="Typing Music Banner" />
-      <br/>
-      <!-- Progress Bar & Sound Wave Controls -->
-      <code>01:42 ━━━━━━━━━━●──────────────── 03:54</code>
-      <br/>
-      <p>
-        <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/⏮_PREV-0f172a?style=for-the-badge&logoColor=cyan" alt="Prev"/></a>
-        <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/❚❚_PAUSE-00f2fe?style=for-the-badge&logoColor=black&color=00f2fe" alt="Pause"/></a>
-        <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/⏭_NEXT-0f172a?style=for-the-badge&logoColor=cyan" alt="Next"/></a>
-        <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/🔀_SHUFFLE-0f172a?style=for-the-badge" alt="Shuffle"/></a>
-        <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/🔊_100%25-0f172a?style=for-the-badge" alt="Volume"/></a>
-      </p>
-      <!-- Equalizer Visualizer GIF -->
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Equalizer.gif" width="180" height="26" alt="Audio Visualizer" />
-    </td>
-  </tr>
-</table>
+<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey — Aliasgar Sogiawala" width="100%" />
 
-<!-- ═══════════════════ 🌌 HERO HEADER ═══════════════════ -->
+<h3>𓆩 ⚔ 𓆪</h3>
 
-<br/>
+# 𝕿𝖍𝖊 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗'𝖘 𝕺𝖉𝖞𝖘𝖘𝖊𝖞
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=220&section=header&text=⚡%20PROJECT%20NEBULA%20⚡&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20Cyber-Charged%20Application%20%E2%80%A2%20Built%20for%20Speed%20%26%20Elegance&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
+### *The Chronicle of Aliasgar Sogiawala*
+
+### Knight of the Open Source Realm · Forger of Digital Kingdoms
+
+<p>
+  <em>“By quill, by code, and by an unreasonable number of commits.”</em>
 </p>
 
-<!-- Live Animated Typing Headline -->
-<div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=false&width=620&height=45&lines=🚀+Architected+for+Ultra+Performance;⚡+Blazing+Fast+%E2%80%A2+Bulletproof+%E2%80%A2+Scalable;🌐+Autonomous+Intelligence+Engine;✨+Star+the+repo+if+you+dig+the+vibe!" alt="Typing Animated Header" />
-  </a>
-</div>
+<a href="https://aliasgar.xyz">
+  <img src="https://img.shields.io/badge/Enter_Mine_Digital_Keep-6F4E37?style=for-the-badge&logo=vercel&logoColor=F5E6C8" alt="Enter Aliasgar's Portfolio" />
+</a>
 
-<br/>
+<br />
+<br />
 
-<!-- Shields / Badges -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers"><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?color=cyan&label=⭐%20STARS&logo=apachespark&logoColor=cyan&style=for-the-badge" alt="Stars Badge"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members"><img src="https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?color=violet&label=🍴%20FORKS&logo=git&logoColor=violet&style=for-the-badge" alt="Forks Badge"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/issues"><img src="https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?color=green&label=🟢%20ISSUES&style=for-the-badge" alt="Issues Badge"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/LICENSE"><img src="https://img.shields.io/badge/⚖️%20LICENSE-MIT-red?style=for-the-badge" alt="License MIT"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME"><img src="https://img.shields.io/badge/PRs-WELCOME-f59e0b?style=for-the-badge&logo=github" alt="PRs Welcome"/></a>
-</p>
+`༺═──────────────═༻`
 
 </div>
 
----
+<img src="./quest-cobblestone.svg" alt="Quest I — The Cobblestone Chronicle" width="100%" />
 
-<div align="center">
-  <h3>
-    <a href="#-about-the-project">📖 Overview</a> •
-    <a href="#-mind-blowing-features">✨ Features</a> •
-    <a href="#-tech-arsenal">🛠️ Tech Stack</a> •
-    <a href="#-lightning-fast-setup">⚡ Quickstart</a> •
-    <a href="#-live-telemetry--metrics">📊 Stats</a> •
-    <a href="#-community--support">🤝 Community</a>
-  </h3>
-</div>
+Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious ideas, and builder of digital realms. Herein lies a record of the tools I wield, the quests I pursue, and the roads by which fellow travellers may find me.
 
----
-
-## 🌌 About The Project
-
-> **"Simplicity is the soul of efficiency, wrapped in pure cyberpunk aesthetics."**
-
-**Project Nebula** is a high-octane, next-generation repository crafted with hyper-modern developer experience in mind. It eliminates friction, supercharges your workflow, and looks ridiculously good while doing it.
-
- ▲             ╔══════════════════════════════════════════════╗
-  / \            ║  STATUS: OPERATIONAL [100% ONLINE]          ║
- /   \           ║  LATENCY: < 1.2ms | MEMORY EFFICIENCY: 99.8% ║
-/  ⚙  \         ║  SECURITY: ZERO TRUST ENCRYPTED              ║
-/_______\       ╚══════════════════════════════════════════════╝
-
-
----
-
-## ✨ Mind-Blowing Features
-
-| 💎 Feature | ⚡ Description | 🎯 Advantage |
-| :--- | :--- | :--- |
-| **🚀 Warp Speed Runtime** | Optimized down to bare metal with sub-millisecond cold starts | Ultra-low compute cost |
-| **🛡️ Bulletproof Security** | End-to-end payload signing, AES-256 GCM encryption | Zero unauthorized breaches |
-| **🧠 Neural Integration** | Gemini & LLM native function calling pipelines | Auto-adapts to your data |
-| **🎨 Cyber Aesthetics** | Neon glowing UI/CLI with full telemetry dashboards | Maximum developer dopamine |
-| **🔄 Auto-Synchronous** | Real-time bi-directional streaming WebSocket protocol | Instantaneous event dispatch |
-
----
-
-## 🛠️ Tech Arsenal
+- 📜 Studying the ancient and ever-growing lore of **Open Source**
+- ⚒️ Forging worthy projects, one quest at a time
+- 🏆 Crowned a **[Hackathon Victor](https://paradocc.vercel.app)**
+- 🗣️ Ever willing to parley about technology, startups, and bold inventions
 
 <div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,fastapi,docker,kubernetes,postgres,redis,graphql,git,githubactions,linux,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js%2014-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Python%203.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+`༺═──────────────═༻`
 
 </div>
 
----
+<img src="./raven-tower.svg" alt="Quest II — The Raven Tower" width="100%" />
 
-## ⚡ Lightning-Fast Setup
+<p align="center">
+  <a href="mailto:itsaliasgar18@gmail.com"><img src="https://img.shields.io/badge/Scroll_by_Email-7B2D26?style=for-the-badge&logo=gmail&logoColor=F5E6C8" alt="Email" /></a>
+  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord_Guild-4B4E6D?style=for-the-badge&logo=discord&logoColor=F5E6C8" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/aliasgarsogiawala"><img src="https://img.shields.io/badge/LinkedIn_Court-315B7D?style=for-the-badge&logo=linkedin&logoColor=F5E6C8" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/aliasgar.sogiawala"><img src="https://img.shields.io/badge/Illuminated_Chronicles-8B3A62?style=for-the-badge&logo=instagram&logoColor=F5E6C8" alt="Instagram" /></a>
+  <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium_Manuscripts-292421?style=for-the-badge&logo=medium&logoColor=F5E6C8" alt="Medium" /></a>
+</p>
 
-Got 30 seconds? You're already halfway there.
+<img src="./minstrels-rest.svg" alt="Interlude — The Minstrel's Rest" width="100%" />
 
-### 🔴 🟡 🟢 Terminal
+<div align="center">
 
-```bash
-# 1. Clone the repository at lightspeed
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+[![Hear what presently fills the great hall](https://novatoremm-he9e.vercel.app/api/orchestrator)](https://novatoremm-he9e.vercel.app/redirect)
 
-# 2. Enter the matrix
-cd YOUR_REPO_NAME
+</div>
 
-# 3. Fire up dependencies
-npm install  # or: bun install / pnpm install / pip install -r requirements.txt
+<img src="./obsidian-armoury.svg" alt="Quest III — The Obsidian Armoury" width="100%" />
 
-# 4. Inject environment variables
-cp .env.example .env.local
+| Order of the Realm | Arms, Artifacts & Enchantments |
+|:--|:--|
+| **🏹 The Guild of Frontend Artificers** | ![Next.js](https://img.shields.io/badge/Next.js-292421?style=for-the-badge&logo=nextdotjs&logoColor=F5E6C8) ![React](https://img.shields.io/badge/React-354F52?style=for-the-badge&logo=react&logoColor=CAD2C5) ![Vite](https://img.shields.io/badge/Vite-694F8E?style=for-the-badge&logo=vite&logoColor=F5E6C8) ![JavaScript](https://img.shields.io/badge/JavaScript-C49A3A?style=for-the-badge&logo=javascript&logoColor=292421) ![Astro](https://img.shields.io/badge/Astro-3B2F4A?style=for-the-badge&logo=astro&logoColor=F5E6C8) ![TypeScript](https://img.shields.io/badge/TypeScript-315B7D?style=for-the-badge&logo=typescript&logoColor=F5E6C8) ![HTML5](https://img.shields.io/badge/HTML5-98473E?style=for-the-badge&logo=html5&logoColor=F5E6C8) ![CSS3](https://img.shields.io/badge/CSS3-315B7D?style=for-the-badge&logo=css3&logoColor=F5E6C8) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3D6B67?style=for-the-badge&logo=tailwindcss&logoColor=F5E6C8) ![React Native](https://img.shields.io/badge/React_Native-354F52?style=for-the-badge&logo=react&logoColor=CAD2C5) ![React Router](https://img.shields.io/badge/React_Router-7B2D26?style=for-the-badge&logo=reactrouter&logoColor=F5E6C8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-694F8E?style=for-the-badge&logo=bootstrap&logoColor=F5E6C8) ![WordPress](https://img.shields.io/badge/WordPress-315B7D?style=for-the-badge&logo=wordpress&logoColor=F5E6C8) |
+| **🔨 The Brotherhood of Backend Smiths** | ![Node.js](https://img.shields.io/badge/Node.js-4F6F52?style=for-the-badge&logo=nodedotjs&logoColor=F5E6C8) ![Python](https://img.shields.io/badge/Python-315B7D?style=for-the-badge&logo=python&logoColor=E3B341) ![Java](https://img.shields.io/badge/Java-7B2D26?style=for-the-badge&logo=openjdk&logoColor=F5E6C8) ![Django](https://img.shields.io/badge/Django-31493C?style=for-the-badge&logo=django&logoColor=F5E6C8) ![Flask](https://img.shields.io/badge/Flask-292421?style=for-the-badge&logo=flask&logoColor=F5E6C8) ![Prisma](https://img.shields.io/badge/Prisma-38302B?style=for-the-badge&logo=prisma&logoColor=F5E6C8) ![Convex](https://img.shields.io/badge/Convex-4A3B32?style=for-the-badge&logo=convex&logoColor=F5E6C8) |
+| **🗝️ The Archive of Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4F6F52?style=for-the-badge&logo=mongodb&logoColor=F5E6C8) ![MySQL](https://img.shields.io/badge/MySQL-315B7D?style=for-the-badge&logo=mysql&logoColor=F5E6C8) ![SQLite](https://img.shields.io/badge/SQLite-394F5A?style=for-the-badge&logo=sqlite&logoColor=F5E6C8) ![Supabase](https://img.shields.io/badge/Supabase-3D6B67?style=for-the-badge&logo=supabase&logoColor=F5E6C8) ![Firebase](https://img.shields.io/badge/Firebase-C49A3A?style=for-the-badge&logo=firebase&logoColor=292421) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4B4E6D?style=for-the-badge&logo=amazondynamodb&logoColor=F5E6C8) ![SQL](https://img.shields.io/badge/SQL-7B2D26?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5E6C8) |
+| **☁️ The Sky Citadel** | ![AWS](https://img.shields.io/badge/AWS-3B3024?style=for-the-badge&logo=amazonwebservices&logoColor=D7A84B) |
+| **🛡️ The Keepers of the Gate** | ![Clerk](https://img.shields.io/badge/Clerk-3B2F4A?style=for-the-badge&logo=clerk&logoColor=F5E6C8) ![Auth.js](https://img.shields.io/badge/Auth.js-394F5A?style=for-the-badge&logo=auth0&logoColor=F5E6C8) ![SuperTokens](https://img.shields.io/badge/SuperTokens-315B7D?style=for-the-badge&logo=supertokens&logoColor=F5E6C8) |
+| **🔮 The Seers of Data** | ![Pandas](https://img.shields.io/badge/Pandas-3B2F4A?style=for-the-badge&logo=pandas&logoColor=F5E6C8) ![NumPy](https://img.shields.io/badge/NumPy-394F5A?style=for-the-badge&logo=numpy&logoColor=F5E6C8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315B7D?style=for-the-badge&logo=python&logoColor=F5E6C8) ![RStudio](https://img.shields.io/badge/RStudio-587B8D?style=for-the-badge&logo=rstudioide&logoColor=F5E6C8) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4F6F52?style=for-the-badge&logo=python&logoColor=F5E6C8) ![PyTorch](https://img.shields.io/badge/PyTorch-98473E?style=for-the-badge&logo=pytorch&logoColor=F5E6C8) |
+| **🎨 The Illuminators’ Atelier** | ![Figma](https://img.shields.io/badge/Figma-98473E?style=for-the-badge&logo=figma&logoColor=F5E6C8) ![Adobe](https://img.shields.io/badge/Adobe-7B2D26?style=for-the-badge&logo=adobe&logoColor=F5E6C8) ![Illustrator](https://img.shields.io/badge/Illustrator-B56B2A?style=for-the-badge&logo=adobeillustrator&logoColor=F5E6C8) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-292421?style=for-the-badge&logo=shadcnui&logoColor=F5E6C8) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-8B3A62?style=for-the-badge&logo=framer&logoColor=F5E6C8) ![Canva](https://img.shields.io/badge/Canva-3D6B67?style=for-the-badge&logo=canva&logoColor=F5E6C8) |
+| **🧰 The Tinkerers’ Workshop** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-7B2D26?style=for-the-badge&logo=raspberrypi&logoColor=F5E6C8) ![Git](https://img.shields.io/badge/Git-98473E?style=for-the-badge&logo=git&logoColor=F5E6C8) ![GitHub](https://img.shields.io/badge/GitHub-292421?style=for-the-badge&logo=github&logoColor=F5E6C8) ![ESLint](https://img.shields.io/badge/ESLint-4B4E6D?style=for-the-badge&logo=eslint&logoColor=F5E6C8) |
+| **🚢 The Harbours of Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-292421?style=for-the-badge&logo=vercel&logoColor=F5E6C8) ![Hostinger](https://img.shields.io/badge/Hostinger-694F8E?style=for-the-badge&logo=hostinger&logoColor=F5E6C8) |
 
-# 5. Launch the hyperdrive dev server! 🚀
-npm run dev
+<div align="center">
+
+`༺═──────────────═༻`
+
+</div>
+
+<img src="./patrons-shrine.svg" alt="The Final Shrine — Patronage of the Realm" width="100%" />
+
+Should my craft have served or delighted thee, thou mayest provision the workshop with a humble draught:
+
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_the_Scribe_a_Coffee-C49A3A?style=for-the-badge&logo=buymeacoffee&logoColor=292421)](https://www.buymeacoffee.com/aliasgarsogiawala)
+
+<br />
+
+### ⚜️ *Thus endeth the scroll—for now.* ⚜️
+
+<sub>Return anon; new quests are ever being forged.</sub>
+
+</div>
