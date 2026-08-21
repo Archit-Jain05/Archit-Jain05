@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey — Aliasgar Sogiawala" width="100%" />
+<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey — Archit Jain" width="100%" />
 
 <h3>𓆩 ⚔ 𓆪</h3>
 
 # 𝕿𝖍𝖊 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗'𝖘 𝕺𝖉𝖞𝖘𝖘𝖊𝖞
 
-### *The Chronicle of Aliasgar Sogiawala*
+### *The Chronicle of Archit Jain*
 
 ### Knight of the Open Source Realm · Forger of Digital Kingdoms
 
@@ -14,8 +14,8 @@
   <em>“By quill, by code, and by an unreasonable number of commits.”</em>
 </p>
 
-<a href="https://aliasgar.xyz">
-  <img src="https://img.shields.io/badge/Enter_Mine_Digital_Keep-6F4E37?style=for-the-badge&logo=vercel&logoColor=F5E6C8" alt="Enter Aliasgar's Portfolio" />
+<a href="https://architjain-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Enter_Mine_Digital_Keep-6F4E37?style=for-the-badge&logo=vercel&logoColor=F5E6C8" alt="Enter Archit's Portfolio" />
 </a>
 
 <br />
@@ -31,7 +31,6 @@ Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious id
 
 - 📜 Studying the ancient and ever-growing lore of **Open Source**
 - ⚒️ Forging worthy projects, one quest at a time
-- 🏆 Crowned a **[Hackathon Victor](https://paradocc.vercel.app)**
 - 🗣️ Ever willing to parley about technology, startups, and bold inventions
 
 <div align="center">
