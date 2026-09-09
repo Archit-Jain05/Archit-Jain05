@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Visual & Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Archit Jain%20&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Archit%Jain%20&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <h3>Software Engineer & Systems Developer</h3>
 
