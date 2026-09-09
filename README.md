@@ -1,94 +1,111 @@
 <div align="center">
 
-<img src="./developers-odyssey-hero.png" alt="The Developer's Odyssey — Archit Jain" width="100%" />
+<!-- Header Visual & Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=architjain%20&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
 
-<h3>𓆩 ⚔ 𓆪</h3>
-
-# 𝕿𝖍𝖊 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗'𝖘 𝕺𝖉𝖞𝖘𝖘𝖊𝖞
-
-### *The Chronicle of Archit Jain*
-
-### Knight of the Open Source Realm · Forger of Digital Kingdoms
-
-<p>
-  <em>“By quill, by code, and by an unreasonable number of commits.”</em>
-</p>
-
-<a href="https://architjain-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Enter_Mine_Digital_Keep-6F4E37?style=for-the-badge&logo=vercel&logoColor=F5E6C8" alt="Enter Archit's Portfolio" />
-</a>
-
-<br />
-<br />
-
-`༺═──────────────═༻`
-
-</div>
-
-<img src="./quest-cobblestone.svg" alt="Quest I — The Cobblestone Chronicle" width="100%" />
-
-Hark! I am **Aliasgar Sogiawala**—a craftsman of the web, seeker of curious ideas, and builder of digital realms. Herein lies a record of the tools I wield, the quests I pursue, and the roads by which fellow travellers may find me.
-
-- 📜 Studying the ancient and ever-growing lore of **Open Source**
-- ⚒️ Forging worthy projects, one quest at a time
-- 🗣️ Ever willing to parley about technology, startups, and bold inventions
-
-<div align="center">
-
-`༺═──────────────═༻`
-
-</div>
-
-<img src="./raven-tower.svg" alt="Quest II — The Raven Tower" width="100%" />
+<h3>Software Engineer & Systems Developer</h3>
 
 <p align="center">
-  <a href="mailto:itsaliasgar18@gmail.com"><img src="https://img.shields.io/badge/Scroll_by_Email-7B2D26?style=for-the-badge&logo=gmail&logoColor=F5E6C8" alt="Email" /></a>
-  <a href="https://discord.com/users/551115955510444042"><img src="https://img.shields.io/badge/Discord_Guild-4B4E6D?style=for-the-badge&logo=discord&logoColor=F5E6C8" alt="Discord" /></a>
-  <a href="https://linkedin.com/in/aliasgarsogiawala"><img src="https://img.shields.io/badge/LinkedIn_Court-315B7D?style=for-the-badge&logo=linkedin&logoColor=F5E6C8" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/aliasgar.sogiawala"><img src="https://img.shields.io/badge/Illuminated_Chronicles-8B3A62?style=for-the-badge&logo=instagram&logoColor=F5E6C8" alt="Instagram" /></a>
-  <a href="https://medium.com/@aliasgarsogiawala"><img src="https://img.shields.io/badge/Medium_Manuscripts-292421?style=for-the-badge&logo=medium&logoColor=F5E6C8" alt="Medium" /></a>
+  <b>Architecting Web Platforms &nbsp;•&nbsp; Building Intelligent Interfaces &nbsp;•&nbsp; Exploring Hardware & Systems</b>
 </p>
 
-<img src="./minstrels-rest.svg" alt="Interlude — The Minstrel's Rest" width="100%" />
-
-<div align="center">
-
-[![Hear what presently fills the great hall](https://novatoremm-he9e.vercel.app/api/orchestrator)](https://novatoremm-he9e.vercel.app/redirect)
-
-</div>
-
-<img src="./obsidian-armoury.svg" alt="Quest III — The Obsidian Armoury" width="100%" />
-
-| Order of the Realm | Arms, Artifacts & Enchantments |
-|:--|:--|
-| **🏹 The Guild of Frontend Artificers** | ![Next.js](https://img.shields.io/badge/Next.js-292421?style=for-the-badge&logo=nextdotjs&logoColor=F5E6C8) ![React](https://img.shields.io/badge/React-354F52?style=for-the-badge&logo=react&logoColor=CAD2C5) ![Vite](https://img.shields.io/badge/Vite-694F8E?style=for-the-badge&logo=vite&logoColor=F5E6C8) ![JavaScript](https://img.shields.io/badge/JavaScript-C49A3A?style=for-the-badge&logo=javascript&logoColor=292421) ![Astro](https://img.shields.io/badge/Astro-3B2F4A?style=for-the-badge&logo=astro&logoColor=F5E6C8) ![TypeScript](https://img.shields.io/badge/TypeScript-315B7D?style=for-the-badge&logo=typescript&logoColor=F5E6C8) ![HTML5](https://img.shields.io/badge/HTML5-98473E?style=for-the-badge&logo=html5&logoColor=F5E6C8) ![CSS3](https://img.shields.io/badge/CSS3-315B7D?style=for-the-badge&logo=css3&logoColor=F5E6C8) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3D6B67?style=for-the-badge&logo=tailwindcss&logoColor=F5E6C8) ![React Native](https://img.shields.io/badge/React_Native-354F52?style=for-the-badge&logo=react&logoColor=CAD2C5) ![React Router](https://img.shields.io/badge/React_Router-7B2D26?style=for-the-badge&logo=reactrouter&logoColor=F5E6C8) ![Bootstrap](https://img.shields.io/badge/Bootstrap-694F8E?style=for-the-badge&logo=bootstrap&logoColor=F5E6C8) ![WordPress](https://img.shields.io/badge/WordPress-315B7D?style=for-the-badge&logo=wordpress&logoColor=F5E6C8) |
-| **🔨 The Brotherhood of Backend Smiths** | ![Node.js](https://img.shields.io/badge/Node.js-4F6F52?style=for-the-badge&logo=nodedotjs&logoColor=F5E6C8) ![Python](https://img.shields.io/badge/Python-315B7D?style=for-the-badge&logo=python&logoColor=E3B341) ![Java](https://img.shields.io/badge/Java-7B2D26?style=for-the-badge&logo=openjdk&logoColor=F5E6C8) ![Django](https://img.shields.io/badge/Django-31493C?style=for-the-badge&logo=django&logoColor=F5E6C8) ![Flask](https://img.shields.io/badge/Flask-292421?style=for-the-badge&logo=flask&logoColor=F5E6C8) ![Prisma](https://img.shields.io/badge/Prisma-38302B?style=for-the-badge&logo=prisma&logoColor=F5E6C8) ![Convex](https://img.shields.io/badge/Convex-4A3B32?style=for-the-badge&logo=convex&logoColor=F5E6C8) |
-| **🗝️ The Archive of Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4F6F52?style=for-the-badge&logo=mongodb&logoColor=F5E6C8) ![MySQL](https://img.shields.io/badge/MySQL-315B7D?style=for-the-badge&logo=mysql&logoColor=F5E6C8) ![SQLite](https://img.shields.io/badge/SQLite-394F5A?style=for-the-badge&logo=sqlite&logoColor=F5E6C8) ![Supabase](https://img.shields.io/badge/Supabase-3D6B67?style=for-the-badge&logo=supabase&logoColor=F5E6C8) ![Firebase](https://img.shields.io/badge/Firebase-C49A3A?style=for-the-badge&logo=firebase&logoColor=292421) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4B4E6D?style=for-the-badge&logo=amazondynamodb&logoColor=F5E6C8) ![SQL](https://img.shields.io/badge/SQL-7B2D26?style=for-the-badge&logo=microsoftsqlserver&logoColor=F5E6C8) |
-| **☁️ The Sky Citadel** | ![AWS](https://img.shields.io/badge/AWS-3B3024?style=for-the-badge&logo=amazonwebservices&logoColor=D7A84B) |
-| **🛡️ The Keepers of the Gate** | ![Clerk](https://img.shields.io/badge/Clerk-3B2F4A?style=for-the-badge&logo=clerk&logoColor=F5E6C8) ![Auth.js](https://img.shields.io/badge/Auth.js-394F5A?style=for-the-badge&logo=auth0&logoColor=F5E6C8) ![SuperTokens](https://img.shields.io/badge/SuperTokens-315B7D?style=for-the-badge&logo=supertokens&logoColor=F5E6C8) |
-| **🔮 The Seers of Data** | ![Pandas](https://img.shields.io/badge/Pandas-3B2F4A?style=for-the-badge&logo=pandas&logoColor=F5E6C8) ![NumPy](https://img.shields.io/badge/NumPy-394F5A?style=for-the-badge&logo=numpy&logoColor=F5E6C8) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315B7D?style=for-the-badge&logo=python&logoColor=F5E6C8) ![RStudio](https://img.shields.io/badge/RStudio-587B8D?style=for-the-badge&logo=rstudioide&logoColor=F5E6C8) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4F6F52?style=for-the-badge&logo=python&logoColor=F5E6C8) ![PyTorch](https://img.shields.io/badge/PyTorch-98473E?style=for-the-badge&logo=pytorch&logoColor=F5E6C8) |
-| **🎨 The Illuminators’ Atelier** | ![Figma](https://img.shields.io/badge/Figma-98473E?style=for-the-badge&logo=figma&logoColor=F5E6C8) ![Adobe](https://img.shields.io/badge/Adobe-7B2D26?style=for-the-badge&logo=adobe&logoColor=F5E6C8) ![Illustrator](https://img.shields.io/badge/Illustrator-B56B2A?style=for-the-badge&logo=adobeillustrator&logoColor=F5E6C8) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-292421?style=for-the-badge&logo=shadcnui&logoColor=F5E6C8) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-8B3A62?style=for-the-badge&logo=framer&logoColor=F5E6C8) ![Canva](https://img.shields.io/badge/Canva-3D6B67?style=for-the-badge&logo=canva&logoColor=F5E6C8) |
-| **🧰 The Tinkerers’ Workshop** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-7B2D26?style=for-the-badge&logo=raspberrypi&logoColor=F5E6C8) ![Git](https://img.shields.io/badge/Git-98473E?style=for-the-badge&logo=git&logoColor=F5E6C8) ![GitHub](https://img.shields.io/badge/GitHub-292421?style=for-the-badge&logo=github&logoColor=F5E6C8) ![ESLint](https://img.shields.io/badge/ESLint-4B4E6D?style=for-the-badge&logo=eslint&logoColor=F5E6C8) |
-| **🚢 The Harbours of Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-292421?style=for-the-badge&logo=vercel&logoColor=F5E6C8) ![Hostinger](https://img.shields.io/badge/Hostinger-694F8E?style=for-the-badge&logo=hostinger&logoColor=F5E6C8) |
-
-<div align="center">
-
-`༺═──────────────═༻`
-
-</div>
-
-<img src="./patrons-shrine.svg" alt="The Final Shrine — Patronage of the Realm" width="100%" />
-
-Should my craft have served or delighted thee, thou mayest provision the workshop with a humble draught:
-
-<div align="center">
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_the_Scribe_a_Coffee-C49A3A?style=for-the-badge&logo=buymeacoffee&logoColor=292421)](https://www.buymeacoffee.com/aliasgarsogiawala)
+<!-- Social & Quick Link Badges -->
+<p align="center">
+  <a href="https://architjain-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&borderColor=30363D" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/architjain">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:itsarchitjain18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/551115955510444042">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://medium.com/@architjain">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
 <br />
 
-### ⚜️ *Thus endeth the scroll—for now.* ⚜️
+<!-- Interactive Terminal Block -->
+```typescript
+const developer = {
+  name: "architjain ",
+  role: "Full-Stack & Systems Engineer",
+  coreLanguages: ["TypeScript", "JavaScript", "Python", "C++"],
+  techStack: ["React", "Next.js", "Node.js", "Tailwind CSS", "PostgreSQL"],
+  architectureFocus: ["Distributed Systems", "Full-Stack Web", "Machine Learning Pipelines", "IoT"],
+  status: "Deploying high-performance digital experiences 🚀"
+};
+```
 
-<sub>Return anon; new quests are ever being forged.</sub>
+</div>
+
+---
+
+### 💻 System Overview
+
+```
+├── ⚙️  Frontend Architecture  : Next.js, React, TypeScript, Tailwind CSS
+├── 🛠️  Backend Systems        : Node.js, Python, Express, Django, REST/GraphQL
+├── 💾  Data & Persistence     : PostgreSQL, MongoDB, Supabase, Firebase
+├── 🤖  Machine Learning & AI  : Data Preprocessing, PyTorch, Streamlit UI
+└── 🔌  Embedded & Hardware   : ESP32 Microcontrollers, Sensor Networks, IoT Platforms
+```
+
+- 🔭 **Current Focus:** Engineering reactive web applications and scalable API architectures.
+- ⚡ **Tech Stack:** Modern JavaScript/TypeScript ecosystems, full-stack framework tooling, and state management.
+- 🧠 **Explorations:** Machine learning deployment pipelines and embedded hardware/IoT integrations.
+- 💬 **Ask Me About:** React architecture, performance optimization, custom UI solutions, and full-stack development.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Engineering** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend & Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Databases & Cloud** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Data & Hardware** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
+| **Tools & UI Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) |
+
+---
+
+### 📈 Activity & Metrics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=architjain&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="architjain's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architjain&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=architjain&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🎵 Currently Playing
+
+<div align="center">
+
+[![Now Playing](https://novatoremm-he9e.vercel.app/api/orchestrator)](https://novatoremm-he9e.vercel.app/redirect)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/architjain)
+
+<br />
+
+<sub>Designed & Engineered by **Archit Jain **</sub>
 
 </div>
