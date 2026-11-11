@@ -119,7 +119,7 @@ vibes         ████████████████████  imma
 <a href="https://architjain.in"><img src="https://img.shields.io/badge/Portfolio-ff6ec7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 <a href="https://github.com/Archit-Jain05"><img src="https://img.shields.io/badge/GitHub-ffd93d?style=for-the-badge&logo=github&logoColor=1a1033" alt="github"/></a>
 <a href="https://www.linkedin.com/in/archit-jain2005"><img src="https://img.shields.io/badge/LinkedIn-4dd0ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<!-- add: <a href="mailto:YOU@mail.com"><img src="https://img.shields.io/badge/Email-6bffb8?style=for-the-badge&logo=gmail&logoColor=1a1033"/></a> -->
+<a href="mailto:architjain2005@gmail.com"><img src="https://img.shields.io/badge/Email-6bffb8?style=for-the-badge&logo=gmail&logoColor=1a1033" alt="email"/></a>
 
 <br/><br/>
 
