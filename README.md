@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec7,100:b388ff&height=70&section=header&text=about%20me&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="about me"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6ec7,100:b388ff&height=70&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="about me"/>
 
 I'm a full-stack and mobile developer who sweats the small stuff: the easing on a button, the gap between two lines, the one-click shortcut that saves ten. I ship **Flutter apps**, **TypeScript web apps** and **Shopify storefronts**, and I build my own dev tools when the existing ones annoy me.
 
@@ -31,44 +31,44 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd93d,100:ff9a3d&height=70&section=header&text=my%20toolbox&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="toolbox"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd93d,100:ff9a3d&height=70&section=header&text=My%20Toolbox&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="toolbox"/>
 
 <div align="center">
 
-**mobile**<br/>
+**Mobile**<br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&perline=8" alt="mobile"/>
 
-**frontend**<br/>
+**Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,threejs&perline=8" alt="frontend"/>
 
-**backend and data**<br/>
+**Backend and Data**<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,firebase,supabase,postgres&perline=8" alt="backend"/>
 
-**tools and shipping**<br/>
+**Tools and Shipping**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,bash,windows&perline=8" alt="tools"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6bffb8,100:4dd0ff&height=70&section=header&text=things%20i%27ve%20built&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="projects"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6bffb8,100:4dd0ff&height=70&section=header&text=Things%20I%27ve%20Built&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="projects"/>
 
 <div align="center">
 
-| project | built with | what it is |
+| Project | Built With | What It Is |
 |:--|:--|:--|
 | **[MoneyMind](https://github.com/Archit-Jain05/MoneyMind)** | ![Flutter](https://img.shields.io/badge/Flutter-ff6ec7?style=flat-square&logo=flutter&logoColor=white) | Personal finance app |
 | **[Velora](https://github.com/Archit-Jain05/Velora)** | ![TypeScript](https://img.shields.io/badge/TypeScript-ffd93d?style=flat-square&logo=typescript&logoColor=1a1033) | Modern web app |
 | **[Dev-Launcher](https://github.com/Archit-Jain05/Dev-Launcher)** | ![JavaScript](https://img.shields.io/badge/JavaScript-6bffb8?style=flat-square&logo=javascript&logoColor=1a1033) | Terminal menu to launch dev servers for multiple projects, with git status |
 | **[Shopswap](https://github.com/Archit-Jain05/Shopswap)** | ![JavaScript](https://img.shields.io/badge/JavaScript-4dd0ff?style=flat-square&logo=javascript&logoColor=1a1033) | Storefront build |
 
-<sub>more in the shed: <a href="https://github.com/Archit-Jain05/Peak-Victory-Theme">Peak-Victory-Theme</a> · <a href="https://github.com/Archit-Jain05/drinkasmaan">drinkasmaan</a> · <a href="https://github.com/Archit-Jain05/MaxInfo_Widgets">MaxInfo_Widgets</a> · <a href="https://github.com/Archit-Jain05/bb3">bb3</a></sub>
+<sub>More in the shed: <a href="https://github.com/Archit-Jain05/Peak-Victory-Theme">Peak-Victory-Theme</a> · <a href="https://github.com/Archit-Jain05/drinkasmaan">drinkasmaan</a> · <a href="https://github.com/Archit-Jain05/MaxInfo_Widgets">MaxInfo_Widgets</a> · <a href="https://github.com/Archit-Jain05/bb3">bb3</a></sub>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4dd0ff,100:b388ff&height=70&section=header&text=the%20numbers&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="stats"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4dd0ff,100:b388ff&height=70&section=header&text=The%20Numbers&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="stats"/>
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b388ff,100:ff6ec7&height=70&section=header&text=activity%20and%20snake&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="activity"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b388ff,100:ff6ec7&height=70&section=header&text=Activity%20and%20Snake&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="activity"/>
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a3d,100:ff6ec7&height=70&section=header&text=daily%20fuel&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="daily fuel"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a3d,100:ff6ec7&height=70&section=header&text=Daily%20Fuel&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="daily fuel"/>
 
 ```text
 coffee        ██████████████████░░  90%
@@ -112,7 +112,7 @@ vibes         ████████████████████  imma
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4dd0ff,100:6bffb8&height=70&section=header&text=say%20hi&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="contact"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4dd0ff,100:6bffb8&height=70&section=header&text=Say%20Hi&fontSize=30&fontColor=1a1033&fontAlignY=50" width="100%" alt="contact"/>
 
 <div align="center">
 
@@ -123,7 +123,7 @@ vibes         ████████████████████  imma
 
 <br/><br/>
 
-<sub>made with way too much coffee · thanks for stopping by</sub>
+<sub>Made with way too much coffee · Thanks for stopping by</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,33:ffd93d,66:6bffb8,100:4dd0ff&height=140&section=footer" width="100%" alt=""/>
 
