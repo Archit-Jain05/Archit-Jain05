@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" fill="none">
+  <style>
+    .c{stroke:#00e5ff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;opacity:.5}
+    .v{stroke:#7c4dff;stroke-width:1.5;stroke-linejoin:round;stroke-linecap:round;opacity:.6}
+    .p{stroke:#e6f1ff;stroke-width:2;stroke-linecap:round;stroke-dasharray:10 300;animation:flow 4s linear infinite}
+    .p2{animation-delay:-2s}
+    .n{fill:#05070f;stroke:#00e5ff;stroke-width:1.5}
+    .nv{fill:#05070f;stroke:#7c4dff;stroke-width:1.5}
+    .hub{fill:#00e5ff;animation:blink 2.4s ease-in-out infinite}
+    @keyframes flow{from{stroke-dashoffset:310}to{stroke-dashoffset:0}}
+    @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+  <path class="c" d="M0 14H300L312 6H410L420 14H484"/>
+  <path class="c" d="M1000 14H700L688 6H590L580 14H516"/>
+  <path class="v" d="M120 14L130 22H230"/>
+  <path class="v" d="M880 14L870 22H770"/>
+  <circle class="n" cx="420" cy="14" r="3"/>
+  <circle class="n" cx="580" cy="14" r="3"/>
+  <circle class="nv" cx="230" cy="22" r="2.8"/>
+  <circle class="nv" cx="770" cy="22" r="2.8"/>
+  <circle class="n" cx="500" cy="14" r="6"/>
+  <circle class="hub" cx="500" cy="14" r="2.4"/>
+  <path class="p" d="M0 14H300L312 6H410L420 14H484"/>
+  <path class="p p2" d="M1000 14H700L688 6H590L580 14H516"/>
+</svg>

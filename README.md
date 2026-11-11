@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-top.svg" width="100%" alt=""/>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070f,45:1b1464,100:00e5ff&height=250&section=header&text=Archit%20Jain&fontSize=74&fontColor=e6f1ff&fontAlignY=40&animation=fadeIn&desc=Building%20the%20future%20one%20pixel%20at%20a%20time&descAlignY=62&descSize=18&descColor=00e5ff" width="100%" alt="Archit Jain"/>
@@ -15,7 +17,7 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=About%20Me&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="About Me"/>
 
@@ -29,7 +31,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 | **Fun fact** | I wrote a terminal menu just to stop opening six terminals |
 | **Looking for** | Fun projects, good people, strong coffee |
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=My%20Toolbox&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="My Toolbox"/>
 
@@ -49,7 +51,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=Things%20I%27ve%20Built&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Things I've Built"/>
 
@@ -66,7 +68,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=The%20Numbers&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="The Numbers"/>
 
@@ -79,7 +81,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=Activity%20and%20Snake&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Activity and Snake"/>
 
@@ -89,7 +91,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=Daily%20Fuel&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Daily Fuel"/>
 
@@ -107,7 +109,7 @@ uptime        ████████████████████  99.9
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-divider.svg" width="100%" alt=""/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,100:16223a&height=64&section=header&text=Say%20Hi&fontSize=28&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Say Hi"/>
 
@@ -125,3 +127,5 @@ uptime        ████████████████████  99.9
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070f,45:1b1464,100:00e5ff&height=130&section=footer" width="100%" alt=""/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/main/assets/circuit-bottom.svg" width="100%" alt=""/>
