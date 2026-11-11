@@ -85,7 +85,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
+<img src="https://raw.githubusercontent.com/Archit-Jain05/Archit-Jain05/refs/heads/output/github-contribution-grid-snake.svg" alt="snake eating my contributions"/>
 
 </div>
 
