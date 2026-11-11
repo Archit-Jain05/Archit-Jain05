@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,33:ffd93d,66:6bffb8,100:4dd0ff&height=260&section=header&text=Archit%20Jain&fontSize=78&fontColor=1a1033&fontAlignY=42&animation=fadeIn&desc=I%20make%20apps%2C%20stores%20%26%20tiny%20tools%20that%20feel%20good%20to%20use&descAlignY=66&descSize=19&descColor=1a1033" width="100%" alt="Archit Jain"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,33:ffd93d,66:6bffb8,100:4dd0ff&height=260&section=header&text=Archit%20Jain&fontSize=78&fontColor=1a1033&fontAlignY=42&animation=fadeIn&desc=I%20make%20apps%20and%20stores%20and%20tiny%20tools%20that%20feel%20good&descAlignY=66&descSize=19&descColor=1a1033" width="100%" alt="Archit Jain"/>
 
 <a href="https://architjain.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=FF6EC7&center=true&vCenter=true&width=700&height=40&lines=Hey%2C+I%27m+Archit+%F0%9F%91%8B;Flutter+%2B+React+%2B+TypeScript+%2B+Shopify;Mumbai-based%2C+pixel-obsessed;Turning+coffee+into+commits+%E2%98%95;Let%27s+build+something+fun" alt="typing intro"/>
@@ -72,8 +72,9 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Archit-Jain05&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1a1033&title_color=ff6ec7&text_color=e9e4ff&icon_color=ffd93d&ring_color=6bffb8&border_radius=14" alt="stats"/>
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Archit-Jain05&layout=compact&hide_border=true&bg_color=1a1033&title_color=ffd93d&text_color=e9e4ff&border_radius=14" alt="top languages"/>
+
+<img src="https://img.shields.io/github/stars/Archit-Jain05?affiliations=OWNER&style=for-the-badge&color=ff6ec7&labelColor=1a1033&logo=github" alt="stars"/>
+<img src="https://img.shields.io/badge/public_repos-12-ffd93d?style=for-the-badge&labelColor=1a1033" alt="repos"/>
 
 <img src="https://streak-stats.demolab.com?user=Archit-Jain05&hide_border=true&background=1a1033&ring=ff6ec7&fire=ffd93d&currStreakLabel=6bffb8&currStreakNum=e9e4ff&sideNums=e9e4ff&sideLabels=4dd0ff&dates=b8aedc&border_radius=14" alt="streak"/>
 
@@ -82,7 +83,7 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b388ff,100:ff6ec7&height=70&section=header&text=activity%20%26%20snake&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="activity"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b388ff,100:ff6ec7&height=70&section=header&text=activity%20and%20snake&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" alt="activity"/>
 
 <div align="center">
 
