@@ -37,16 +37,16 @@ I'm a full-stack and mobile developer who sweats the small stuff: the easing on 
 
 <div align="center">
 
-**Mobile**<br/>
+**Mobile**<br/><br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&perline=8&theme=dark" alt="mobile"/>
 
-**Frontend**<br/>
+**Frontend**<br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,threejs&perline=8&theme=dark" alt="frontend"/>
 
-**Backend and Data**<br/>
+**Backend and Data**<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,firebase,supabase,postgres&perline=8&theme=dark" alt="backend"/>
 
-**Tools and Shipping**<br/>
+**Tools and Shipping**<br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,bash,windows&perline=8&theme=dark" alt="tools"/>
 
 </div>
